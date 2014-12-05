@@ -7,3 +7,5 @@
 3. 20141123-Us
 
 4. 20141125-UseSizeClasses 学习如何使用Size Classes
+
+5. 20141205-UseXCTestCase 学习如何使用测试案例
