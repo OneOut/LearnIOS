@@ -9,4 +9,8 @@
 2. 用法
 	屏幕的宽和高分别分成三种情况：（Compact, Regular, Any), 也即紧凑、正常和任意。这样的宽和高三三一整合，一共9种情况。针对每一种情况，如果需要的话，我们可以单独在storyboard或xib中设置uiview的自动布局约束，甚至某一个button是否显示都是能轻松实现。
 
-
+Compact-Compact 代表iPhone上的横屏
+Regular-Compact 代表iPhone Plus的横屏
+Compact-Regular 代表iphone的竖屏
+Regular-Regular 代表ipad
+Any-Any 代表基本设备
